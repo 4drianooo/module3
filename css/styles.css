@@ -2,7 +2,7 @@ body {
 	font-size: 16px;
 	color: white;
 	background-color: #24c4f0;
-	font-family: Arial , cursive;
+	font-family: serif , cursive;
 }
 
 /* HEADER */
@@ -10,11 +10,11 @@ body {
 	background-color: #530fad;
 	border-radius: 0;
 	border: 0;
-	color: white;
+	color: yellow;
 }
 
 .navbar-brand p {
-	color: white;
+	color: yellow;
 	font-size: 20px;
 }
 
@@ -23,7 +23,7 @@ body {
 }
 
 #nav-list a {
-	color: white;
+	color: yellow;
 	text-align: center;
 }
 
@@ -44,7 +44,7 @@ body {
 }
 
 .row > div > article {
-	background-color: white;
+	background-color: yellow;
 	text-align: justify;
 	margin-bottom: 20px;
 	padding: 12px;
